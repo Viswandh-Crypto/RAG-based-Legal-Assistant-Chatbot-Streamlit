@@ -60,3 +60,18 @@ This tool helps legal professionals and researchers analyze court orders quickly
     4.View responses and chat history directly in the UI.
 
 📸 Screenshot
+<img width="1920" height="1080" alt="Screenshot 2025-09-16 124013" src="https://github.com/user-attachments/assets/fed96fe0-ebe4-4514-99da-13b80a857f4f" />
+
+📌 Future Improvements
+
+    📚 Support for multiple PDFs
+
+    🌐 Deployment on HuggingFace Spaces / Streamlit Cloud
+
+    🧾 Case law citation extraction
+
+    📊 Structured output (JSON / tables for deadlines, parties, etc.)
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a PR with improvements.
