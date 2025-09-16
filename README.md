@@ -75,3 +75,8 @@ This tool helps legal professionals and researchers analyze court orders quickly
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a PR with improvements.
+
+⚠️ Disclaimer
+
+This chatbot is for educational and research purposes only.
+It is not a substitute for professional legal advice. Always consult a qualified lawyer for actual legal matters.
